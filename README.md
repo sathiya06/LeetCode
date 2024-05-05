@@ -4,7 +4,7 @@
 <span>💡 <i>Solutions to <a href="https://leetcode.com/problemset/all/">LeetCode</a> in Java, Python. This repository aims to provide code with <strong>good readability</strong> and <strong>consistent style</strong> over various topics and embraces new standards.</i></span>
 <br/>
 <br/>
-<img src="https://img.shields.io/badge/Solved-0/2949%20=%200%25-blue.svg?style=flat-square" />
+<img src="https://img.shields.io/badge/Solved-37/2949%20=%200%25-blue.svg?style=flat-square" />
 <br/>
 <img src="https://img.shields.io/badge/Easy-0/748-5CB85D.svg?style=flat-square" />
 <img src="https://img.shields.io/badge/Medium-0/1553-F0AE4E.svg?style=flat-square" />
