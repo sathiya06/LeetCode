@@ -27,7 +27,7 @@ following formatters:
 
 ## License
 
-Licensed under the MIT License, Copyright © 2023
+Licensed under the MIT License, Copyright © 2025
 [Sathiya Venkatesan](https://github.com/sathiya06).
 
 <div align="center">
